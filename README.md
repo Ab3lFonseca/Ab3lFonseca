@@ -2,7 +2,7 @@
 - 👀 Trying to imorove my knowedg in programation and help to construct codes with you
 - 🌱 I’m currently learning in Senac Blumenau hot to create games
 - 💞️ I’m looking to collaborate on codes that you make
-- 📫 How to reach me, my whatsapp +5547996874225, my e-mail eusouphodaxin@gmail.com 
+- 📫 How to reach me, my whatsapp +5547996874225, my e-mail abel.braga.trabalho@gmail.com
 
 <!---
 Ab3lFonseca/Ab3lFonseca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
