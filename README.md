@@ -1,4 +1,4 @@
-<div whidth="100px">
+<div width="100px">
   ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
 
