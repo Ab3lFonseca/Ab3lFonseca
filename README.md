@@ -5,7 +5,7 @@
 <h1 align="center">Abel Braga WarWar da Fonseca 👋</h1>
 
 <p align="center">
-  <b>Back-End Developer</b><br>
+  <b>Full-Stack Developer</b><br>
   <i>Java | Node.js | C# | Spring Boot | MySQL | JavaScript | HTML/CSS | Cloud (AWS) | Postman | MVC | Quality Assurance</i><br>
   <br>
   💻 Transformando ideias em código funcional e eficiente
