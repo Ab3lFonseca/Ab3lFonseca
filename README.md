@@ -1,8 +1,4 @@
-<div aligh="center">
- <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500px">
-</div>
 
- 
 
 
 
@@ -54,5 +50,11 @@ Outros       | Git, GitHub, AWS (Cloud), MVC, Insomnia
 ✅ Contribuições em projetos com foco educacional e pessoal
 🎯 Aprendizado contínuo em cloud, arquitetura de software e boas práticas
 🚀 Em busca de oportunidades profissionais e novos desafios
+```
+<div align="center">
+ <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500px">
+</div>
+
+ 
 
 <p align="center"> 💬 Obrigado por visitar meu perfil! Vamos construir juntos soluções que fazem a diferença! </p> ```
