@@ -57,4 +57,4 @@ Outros       | Git, GitHub, AWS (Cloud), MVC, Insomnia
 
  
 
-<p align="center"> 💬 Obrigado por visitar meu perfil! Vamos construir juntos soluções que fazem a diferença! </p> ```
+<p align="center"> 💬 Obrigado por visitar meu perfil! Vamos construir juntos soluções que fazem a diferença! </p> 
