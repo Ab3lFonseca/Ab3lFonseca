@@ -1,4 +1,4 @@
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100px">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500px">
  
 
 
