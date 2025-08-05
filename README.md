@@ -1,5 +1,7 @@
+<div whidth="100px">
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <h1 align="center">Abel Braga WarWar da Fonseca 👋</h1>
 
