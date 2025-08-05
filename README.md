@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Full-Stack Developer</b><br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Java%20|%20Node.js%20|%20C#%20|%20SpringBoot%20|%20MySQL%20|%20JavaScript%20|%20HTML/CSS%20|%20Cloud%20(AWS)%20|%20Postman%20|%20MVC%20|%20Quality%20Assurance">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Java%20|%20Node.js%20|%20CSharp%20|%20SpringBoot%20|%20MySQL%20|%20JavaScript%20|%20HTML/CSS%20|%20Cloud%20(AWS)%20|%20Postman%20|%20MVC%20|%20Quality%20Assurance">
       <br>
   <br>
   💻 Transformando ideias em código funcional e eficiente
