@@ -1,4 +1,4 @@
-
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/87d41ac9-f24c-48db-b4a4-0f2347360a1b" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/282b938d-7592-4e7e-984c-1327aab6facc" />
 
 
 
@@ -28,22 +28,17 @@ Olá! Sou Abel, desenvolvedor focado no **Back-End**, apaixonado por construir s
 ### 🛠️ Tecnologias e Ferramentas
 
 ```plaintext
-Back-End     | Java, Spring Boot, Node.js, C#
-Front-End    | HTML, CSS, JavaScript
-Banco de Dados | MySQL, PostgreSQL
-Testes       | Postman, JUnit
-Outros       | Git, GitHub, AWS (Cloud), MVC, Insomnia
-📈 Estatísticas GitHub
-<p align="center"> <img src="https://github.com/Ab3lFonseca/Ab3lFonseca/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Stats" style="max-width: 100%;"> </p>
-📌 Repositórios em destaque
-🔧 ecommerce_backend_Abel – API REST em Java para e-commerce
 
-📝 trabalhofinalSegundoSemestre – Projeto com foco em lógica com JavaScript puro
+📌 Repositórios em destaque
+🔧 BigCondominiosCompleto – Projeto com intuito academico
 
 📫 Contato
-📧 abelwarwarfonseca@gmail.com
+📧 abel.braga.trabalho@gmail.com
+
+Whatsapp: +55 (47)99687-4225
 
 💼 LinkedIn
+www.linkedin.com/in/abelbragafonseca
 
 🌐 Portfólio (em breve...)
 
