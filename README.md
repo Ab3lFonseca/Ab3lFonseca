@@ -1,6 +1,3 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/87d41ac9-f24c-48db-b4a4-0f2347360a1b" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/282b938d-7592-4e7e-984c-1327aab6facc" />
-
-
 
 <h1 align="center">Abel Braga WarWar da Fonseca 👋</h1>
 
